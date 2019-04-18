@@ -11,7 +11,7 @@ export default class LocationsList extends Component {
                 </section>
                 <section>
                     <h2>Nashville South</h2>
-                    <h4>500 Puppo Blvd.</h4>
+                    <h4>500 The Bog</h4>
                 </section>
             </article>
         )
